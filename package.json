@@ -1,6 +1,6 @@
 {
   "name": "regex-function-name",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Regular expression to capture a function name.",
   "author": {
     "name": "Athan Reines",
@@ -23,15 +23,15 @@
     "url": "git://github.com/kgryte/regex-function-name.git"
   },
   "keywords": [
-		"regex",
-		"regexp",
-		"function",
-		"name",
-		"regular",
-		"expression",
-		"capture",
-		"match"
-	],
+    "regex",
+    "regexp",
+    "function",
+    "name",
+    "regular",
+    "expression",
+    "capture",
+    "match"
+  ],
   "bugs": {
     "url": "https://github.com/kgryte/regex-function-name/issues"
   },
